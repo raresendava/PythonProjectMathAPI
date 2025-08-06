@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-pydantic
-aiofiles
-python-jose[cryptography]
-prometheus-fastapi-instrumentator
