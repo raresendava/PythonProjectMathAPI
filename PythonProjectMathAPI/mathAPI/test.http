@@ -1,0 +1,7 @@
+### Fibonacci with JWT
+GET http://localhost:8000/math/fib?a=7
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwbGF5ZXIxIn0.fPeIMaD5GlXsqW5NK2j39RA7dePyhTJJaW4kR8j-i6E
+
+### Power
+GET http://localhost:8000/math/pow?a=2&b=3
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwbGF5ZXIxIn0.fPeIMaD5GlXsqW5NK2j39RA7dePyhTJJaW4kR8j-i6E
